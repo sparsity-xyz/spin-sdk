@@ -20,4 +20,4 @@ https://zkspin.gitbook.io/zkspin
 
 # **Your feedback is more than welcomed!**
 
-Please feel free to submit issues or send your feedback to spin-sdk@m4.team
+Please feel free to submit issues or send your feedback to devrel@sparsity.xyz
